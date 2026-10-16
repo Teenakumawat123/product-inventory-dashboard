@@ -51,7 +51,7 @@ product-inventory-dashboard/
 - `script.js` — Contains the inventory logic and analytics.
 - `README.md` — Documents the project, its features, and usage.
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Clone or download this repository.
 2. Open the project folder.
